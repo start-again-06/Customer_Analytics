@@ -18,10 +18,6 @@ This script provides essential customer analytics by calculating Customer Lifeti
 
 📥 Prepare a CSV file named customer_data.csv (or specify another file path).
 
-▶️ Run the script using:
-
-[python customer_analytics.py](url)
-
 📊 View the calculated CLV, retention rate, and churn rate in the console.
 
 📜 Best Practices
